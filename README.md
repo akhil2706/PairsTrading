@@ -28,6 +28,3 @@ The IPython notebook containts the code and the descriptive comments which debri
 ## Contributors 
 
 Akhil Sethia
-
-
-instructions will help you understand how to test the strategy defined in the underlying project. 
